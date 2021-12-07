@@ -1,0 +1,39 @@
+body{
+    background-color: #9FAD97;
+}
+#p1{
+    text-align: left;
+}
+#p2{
+    text-align: center;
+}
+#p3{
+    text-align: right;
+}
+#p4{
+    color: green;
+}
+#p5{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+#p6{
+    margin-top:16px;
+    margin-bottom:16px;
+   font-size: 50px;
+}
+#p7{
+   font-size: small;
+   font-family: Arial, Helvetica, sans-serif;
+   color:white;
+}
+.c1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#p9{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
